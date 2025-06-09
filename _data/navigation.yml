@@ -4,8 +4,8 @@ main:
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "关于我们"
     url: /关于我们/
-  - title: "我们的客户"
-    url: /我们的客户/
+  - title: "我们的产品"
+    url: /我们的产品/
   - title: "往期文章"
     url: /sitemap/
   # - title: "Sitemap"
